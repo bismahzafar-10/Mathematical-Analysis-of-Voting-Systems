@@ -8,10 +8,7 @@ This work was officially accepted and presented as a **Poster Presentation** at 
 
 ## 📊 View the Poster
 The complete, high-resolution research poster presented at the conference can be found here:
-📁 **[View Conference Poster (`Mathematical Analysis of Voting Systems.png`)](Mathematical-Analysis-of-Voting-Systems
-/Mathematical Analysis of Voting Systems.png
-)**
-
+📁 [View Conference Poster (Mathematical Analysis of Voting Systems.png)](./Mathematical%20Analysis%20of%20Voting%20Systems.png)
 ---
 
 ## 🧠 Research Overview & Theoretical Framework
