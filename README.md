@@ -8,7 +8,7 @@ This work was officially accepted and presented as a **Poster Presentation** at 
 
 ## 📊 View the Poster
 The complete, high-resolution research poster presented at the conference can be found here:
-📁 **[View Conference Poster (`image_42e2fd.jpg`)](./presentation/image_42e2fd.jpg)**
+📁 **[View Conference Poster (`Mathematical Analysis of Voting Systems.png`)](Mathematical Analysis of Voting Systems.png)**
 
 ---
 
