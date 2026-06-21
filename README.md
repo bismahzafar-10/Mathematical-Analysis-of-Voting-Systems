@@ -2,7 +2,7 @@
 
 This repository contains the research, methodology, and conference poster for my project on the **Mathematical Analysis of Voting Systems**, which explores the application of mathematics to complex social choice issues. 
 
-This work was officially accepted and presented as a **Poster Presentation** at the **Science Undergraduate Research Conference (SURC 2024)** at Azim Premji University.
+This work was officially accepted and presented as a **Poster Presentation** at the **Science Undergraduate Research Conference (SURC 2024)** at Azim Premji University, Bengaluru, India.
 
 ---
 
