@@ -31,6 +31,7 @@ To evaluate the probabilistic nature of these systems, the project utilized:
 * **Plurality & Runoff:** Frequently failed to consistently identify Condorcet winners, raising questions about their suitability in competitive, multi-candidate elections.
 * **Future Work:** Explores the mathematical calibration of hybrid voting systems and the potential of blockchain to enhance democratic transparency.
 
+Note: The original Monte Carlo simulation scripts were executed in a local environment and are currently being refactored for open-source distribution.
 ---
 
 ## 📚 References
