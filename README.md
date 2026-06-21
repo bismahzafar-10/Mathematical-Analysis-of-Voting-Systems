@@ -8,9 +8,7 @@ This work was officially accepted and presented as a **Poster Presentation** at 
 
 ## 📊 View the Poster
 The complete, high-resolution research poster presented at the conference can be found here:
-📁 **[View Conference Poster (`<img width="4608" height="3456" alt="image" src="https://github.com/user-attachments/assets/1a1b84ff-adb1-4a9e-81b9-95b4719e49a1" /> 
-
-`)]
+📁 **[View Conference Poster]
 <img width="4608" height="3456" alt="image" src="https://github.com/user-attachments/assets/1a1b84ff-adb1-4a9e-81b9-95b4719e49a1" /> 
 
 
