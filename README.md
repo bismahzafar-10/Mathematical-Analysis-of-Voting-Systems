@@ -1,43 +1,40 @@
 # Mathematical Analysis of Voting Systems
 
-An investigation into the vulnerabilities, fairness criteria, and strategic manipulation of key voting methods (Plurality, Runoff, Borda Count, and Condorcet) using mathematical frameworks and computational simulations.
+This repository contains the research, methodology, and conference poster for my project on the **Mathematical Analysis of Voting Systems**, which explores the application of mathematics to complex social choice issues. 
 
-## 🌟 Conference Presentation
-This research was presented as a **Poster Presentation** at the **Science Undergraduate Research Conference (SURC 2024)** at Azim Premji University. 
-
-📄 [View the full conference poster](./path/to/image_42e2fd.jpg)
+This work was officially accepted and presented as a **Poster Presentation** at the **Science Undergraduate Research Conference (SURC 2024)** at Azim Premji University.
 
 ---
 
-## 🧠 Theoretical Framework
-This project rigorously evaluates voting methods against critical impossibility theorems:
-* **Arrow’s Impossibility Theorem:** Evaluating how voting systems reconcile criteria like universality, independence of irrelevant alternatives, and non-dictatorship.
-* **Gibbard-Satterthwaite Theorem:** Investigating the vulnerability of electoral systems to strategic voting and manipulation.
-* **Condorcet Criterion:** Testing if methods consistently select the candidate who wins all pairwise matchups.
+## 📊 View the Poster
+The complete, high-resolution research poster presented at the conference can be found here:
+📁 **[View Conference Poster (`image_42e2fd.jpg`)](./presentation/image_42e2fd.jpg)**
 
-## 💻 Computational Approach & Simulations
-To analyze the probabilistic nature of these systems, I implemented:
-* **Monte Carlo Simulations:** Generated random voter preference profiles across varied population sizes to simulate elections.
-* **Data Analysis:** Evaluated outcomes based on the probability of selecting a Condorcet winner, the prevalence of paradoxes, and robustness to strategic manipulation.
-
-## 📊 Key Results
-* Plurality and runoff systems showed a significant failure rate in consistently identifying Condorcet winners.
-* While Borda Count demonstrated better overall efficiency in ranking preferences, it exhibited higher vulnerability to strategic manipulation.
-*(Tip: You can insert 1 or 2 of your key plot images here!)*
-
-## 🛠️ How to Run the Simulations
-```bash
-git clone [https://github.com/yourusername/voting-systems-analysis.git](https://github.com/yourusername/voting-systems-analysis.git)
-cd voting-systems-analysis
-pip install -r requirements.txt
-python main.py
-```
 ---
 
-## 3. Don't Forget the GitHub "About" Section
-On the right-hand side of your GitHub repository page, fill out the **About** section using strong keywords so it pops up if someone searches for relevant terms:
+## 🧠 Research Overview & Theoretical Framework
+This study rigorously examines key voting methods—including Plurality, Runoff, Borda Count, and Condorcet—to evaluate their systemic strengths, structural weaknesses, and susceptibility to strategic manipulation. 
 
-*   **Description:** *Computational analysis and Monte Carlo simulations of voting system vulnerabilities using Arrow’s and Gibbard-Satterthwaite theorems. Presented at SURC 2024.*
-*   **Topics/Tags:** `mathematical-modeling`, `monte-carlo-simulation`, `social-choice-theory`, `voting-systems`, `python`, `data-analysis`.
+The analysis utilizes foundational mathematical frameworks in social choice theory:
+* **Arrow’s Impossibility Theorem:** Used to evaluate the extent to which voting systems can simultaneously reconcile criteria like universality, independence of irrelevant alternatives, and non-dictatorship.
+* **Gibbard-Satterthwaite Theorem:** Applied to investigate the inherent vulnerability of multi-candidate electoral systems to strategic voting and manipulation.
+* **Condorcet Criterion:** Used to assess whether specific voting methods consistently select the candidate who can win all pairwise matchups.
 
-This turns a simple academic poster into a tangible, open-source project that proves your coding, data visualization, and analytical skills!
+## 💻 Methodology & Simulations
+To evaluate the probabilistic nature of these systems, the project utilized:
+1. **Monte Carlo Simulations:** Generated random voter preference profiles across varying population sizes to simulate elections under different voting rules.
+2. **Data Analysis:** Performance metrics were computed to analyze the probability of selecting a Condorcet winner, the prevalence of voting paradoxes, and overall robustness to strategic manipulation.
+
+## 📈 Key Findings & Discussion
+* **Trade-offs in Design:** No single voting system fully overcomes the inherent trade-offs between fairness, efficiency, and manipulability.
+* **Borda Count:** Demonstrated better overall efficiency in ranking collective preferences but exhibited a higher mathematical vulnerability to strategic manipulation.
+* **Plurality & Runoff:** Frequently failed to consistently identify Condorcet winners, raising questions about their suitability in competitive, multi-candidate elections.
+* **Future Work:** Explores the mathematical calibration of hybrid voting systems and the potential of blockchain to enhance democratic transparency.
+
+---
+
+## 📚 References
+1. Harrenstein, P., Lackner, M., & Lackner, M. (2020). *A Mathematical Analysis of an Election System Proposed by Gottlieb Frege.*
+2. Shokil, T. (2023). *A Comparative Study of Electoral Systems.* University of Dhaka.
+3. Hodge, J., & Klima, R. (2005). *The Mathematics of Voting and Elections: A Hands-On Approach.* American Mathematical Society.
+4. Saari, D. G. (2001). *Decisions and Elections: Explaining the Unexpected.* Cambridge University Press.
