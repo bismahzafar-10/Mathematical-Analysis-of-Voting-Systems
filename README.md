@@ -1,5 +1,12 @@
 # Mathematical Analysis of Voting Systems
 
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023+-orange?style=flat&logo=MathWorks&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Topic](https://img.shields.io/badge/Topic-Applied%20Mathematics-orange)
+![Field](https://img.shields.io/badge/Field-Social%20Choice%20Theory%20-purple)
+![Method](https://img.shields.io/badge/Method-Monte%20Carlo%20Simulation-green)
+![Conference](https://img.shields.io/badge/Conference-SURC%202024-red)
+
 This repository contains the research, methodology, and conference poster for my project on the **Mathematical Analysis of Voting Systems**, which explores the application of mathematics to complex social choice issues. 
 
 This work was officially accepted and presented as a **Poster Presentation** at the **Science Undergraduate Research Conference (SURC 2024)** at Azim Premji University, Bengaluru, India.
